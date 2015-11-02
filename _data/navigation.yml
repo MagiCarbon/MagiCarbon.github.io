@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: Main
+  url: /
+
+- title: Blog
+  url: /blog/
+
+- title: Music
+  url: /music/
+
+- title: Tags
+  url: /tags/
+
+- title: Links
+  url: /links/
+  
+- title: About
+  url: /about/
