@@ -116,9 +116,12 @@ $(document).ready(function() {
 </script>
 <!-- Toggle Comments -->
 <script type="text/javascript">
-$( "#comments" ).click(function() {
-  $( "#comments-wrap" ).slideToggle( "slow", function() {
+$( "#comments-title" ).click(function() {
+  $( "#comments-wrap" ).slideToggle( "normal", function() {
     // Animation complete.
   });
+});
+$('.comments-slide-down').click(function() {
+  $('#comments-wrap').slideDown('fast');
 });
 </script>
