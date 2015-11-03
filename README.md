@@ -1,2 +1,1 @@
-# MagiCarbon.github.io
-well, trying pages.
+# SEIZE THE DAY.
