@@ -122,6 +122,10 @@ $( "#comments-title" ).click(function() {
   });
 });
 $('.comments-slide-down').click(function() {
-  $('#comments-wrap').slideDown('fast');
+  $('#comments-wrap').slideDown('fast', function() {
+    if(window.location.hash) {
+      window.location.href = window.location.href;
+    }
+  });
 });
 </script>
