@@ -1,10 +1,10 @@
 // TYPOGRAPHY ================================================
-$base-font: 'Ubuntu', sans-serif;
-$alt-font: 'Philosopher', 'Ubuntu', sans-serif;
+$base-font: "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", "Hiragino Sans GB", STXihei, STHeiti, SimSun, sans-serif;
+$alt-font: $base-font;
 $heading-font: $base-font;
 $title-font: $alt-font;
 $caption-font: $alt-font;
-$code-font: $base-font;
+$code-font: Consolas, Menlo, Monaco, "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", Courier, "Courier New", monospace, sans-serif;
 
 $doc-font-size: 16;
 $doc-line-height: 24;
