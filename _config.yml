@@ -27,7 +27,7 @@ kramdown:
   toc_levels: 1..2
   enable_coderay: false
   input: GFM
-  syntax_highlighter: rouge
+  # syntax_highlighter: rouge #for local
 
 mathjax: false
 
