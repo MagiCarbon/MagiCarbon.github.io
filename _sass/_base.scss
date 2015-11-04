@@ -44,6 +44,7 @@ body {
 
 p {
 	@include font-size(18,yes,28);
+	word-wrap: break-word;
 }
 
 li {

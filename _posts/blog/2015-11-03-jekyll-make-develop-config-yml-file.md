@@ -20,12 +20,17 @@ i have to change the url in _config.yml file temporarily and also make sure not 
 
 **here is the solution**
 
-first copy the _config.yml to _config-local.yml;
+first copy the _config.yml to _config-local.yml, and set the url in the _config-local.yml file;
 
 then run:
-``` bundle exec jekyll serve -H0.0.0.0 --config _config.yml,_config-local.yml ```
 
-_alternatively, you can create a bash-shell script file named ```serve.sh```, put the above content in._
+`bundle exec jekyll serve -H0.0.0.0 --config _config-local.yml`
+
+that's all.
+
+_**note**: better for you to add '_config-local.yml' to .gitignore list_
+
+_**alternatively**, you can create a bash-shell script file named ```serve.sh```, put the above content in._
 
 
 <figure>
