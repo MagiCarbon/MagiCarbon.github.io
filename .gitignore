@@ -5,3 +5,4 @@ node_modules/
 *.sublime-project
 *.sublime-workspace
 codekit-config.json
+_config-local.yml
