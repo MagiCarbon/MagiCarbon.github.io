@@ -10,7 +10,7 @@ url: http://love.magicarbon.com #http://MagiCarbon.github.io
 
 # Jekyll configuration
 
-permalink:  /:categories/:title/
+permalink: /:categories/:year/:month/:day/:title.html
 markdown: kramdown
 highlighter: pygments
 sass:
