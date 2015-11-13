@@ -14,7 +14,7 @@ hidelogo: true
 
 lately, updated to OpenSUSE Leap 42.1 from 13.2. but i couldnt disable the 'packagekitd' service.
 
-And it always is annoying, boring, blah blah...
+And it is always annoying, boring, blah blah...
 
 **anyway, I HATE IT!!**
 
