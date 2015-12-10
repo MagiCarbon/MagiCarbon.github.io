@@ -34,3 +34,13 @@ source /usr/share/doc/pkgfile/command-not-found.bash
 logout and login again. you should got the magic.
 
 (*ps. instead of re-login, you could just execute that line, which seems more simple*)
+
+##### Test
+
+try to enter a command haven't installed yet. you will get the packages info about it.
+
+```bash
+[root@ArchLinux ~]# wget
+wget may be found in the following packages:
+  extra/wget 1.16.3-1   /usr/bin/wget
+```
