@@ -4,7 +4,7 @@ categories: blog
 share: true
 comments: true
 title: openssl create SCR with multiple SANs
-excerpt: make xfce-4.12 working with xdm
+excerpt: openssl stuff
 date: '2016-04-14T15:50:00+08:00'
 #modified: '2014-11-09T23:39:00+01:00'
 tags: [openssl, https]
